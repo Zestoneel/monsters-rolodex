@@ -9,3 +9,7 @@ A website to display all monsters and filter the monsters using the search funct
 3. How they re-render
 4. Basic composition patterns
 5. Class Components
+6. Pure, Impure Functions and side effects
+7. Functional Components
+8. Hooks - useState()
+9. Functional Components Re-rendering

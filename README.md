@@ -27,7 +27,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Demo
 
-|---|
 |![Monster Rolodex](https://github.com/Zestoneel/monsters-rolodex/blob/main/Demo/Demo.gif)|
 
 ## What I learnt while doing the project:

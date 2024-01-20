@@ -1,4 +1,4 @@
-# monsters-rolodex
+# Monsters-Rolodex
 
 A website to display all monsters and filter the monsters using the search functionality.
 
